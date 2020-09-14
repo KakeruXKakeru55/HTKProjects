@@ -1,0 +1,2 @@
+$WORD = ZERO | ICHI | NI | SAN | YON | GO | ROKU | SEVEN | HACHI | KYUU;
+({SIL} [$WORD] {SIL}) 

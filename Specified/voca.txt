@@ -1,0 +1,11 @@
+ZERO [zero] zero
+ICHI [ichi] ichi
+NI [ni] ni
+SAN [san] san
+YON [yon] yon
+GO [go] go
+ROKU [roku] roku
+SEVEN [seven] seven
+HACHI [hachi] hachi
+QUE [que] que
+SIL [sil] sil 

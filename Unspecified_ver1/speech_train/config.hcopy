@@ -1,0 +1,10 @@
+SOURCEFORMAT = WAV  # .wav形式
+SOURCEKIND = WAVEFORM   # 入力：音声波形
+SOURCERATE = 625    # 標本化周期 1/16000[s]
+TARGETKIND = MFCC_0_D_A # 出力：MFCC
+TARGETRATE = 100000.0   # フレーム周期 10[ms]
+WINDOWSIZE = 250000.0   # フレーム長 25[ms]
+USEHAMMING = T  # ハミング窓の利用
+PREEMCOEF = 0.97    # ハイパスフィルタの適用
+NUMCHANS = 24   # フィルタバンクのチャネル数 24
+NUMCEPS = 12    # MFCCの次元数 12

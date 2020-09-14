@@ -1,0 +1,8 @@
+grammar.txt 
+文法のネットワーク構築
+net.slf
+生成されたHMMネットワーク
+hmmlist.txt 
+hmmのリスト
+trainlist.txt
+学習データのリスト
